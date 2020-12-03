@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1B39604B-5E94-48A8-BFEE-47AEF55A390E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B39604B-5E94-48A8-BFEE-47AEF55A390E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>628699434.78135395</real>
+			<key>timeStoppedRecording</key>
+			<real>628699449.30697894</real>
+			<key>title</key>
+			<string>Build Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>1B39604B-5E94-48A8-BFEE-47AEF55A390E</string>
+		</dict>
+		<key>35750CF6-7983-4132-9C31-145DB269906C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35750CF6-7983-4132-9C31-145DB269906C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>628090615.83961499</real>
+			<key>timeStoppedRecording</key>
+			<real>628090615.90657997</real>
+			<key>title</key>
+			<string>Build Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>35750CF6-7983-4132-9C31-145DB269906C</string>
+		</dict>
+		<key>6E570BA6-C0EA-42D8-992B-CAC3A64710C9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6E570BA6-C0EA-42D8-992B-CAC3A64710C9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>628699602.57515204</real>
+			<key>timeStoppedRecording</key>
+			<real>628699604.25050795</real>
+			<key>title</key>
+			<string>Build Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>6E570BA6-C0EA-42D8-992B-CAC3A64710C9</string>
+		</dict>
+		<key>E69453DC-CD87-4785-800F-A23EBC21BC1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E69453DC-CD87-4785-800F-A23EBC21BC1C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>628699693.433797</real>
+			<key>timeStoppedRecording</key>
+			<real>628699694.19116902</real>
+			<key>title</key>
+			<string>Build Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>E69453DC-CD87-4785-800F-A23EBC21BC1C</string>
+		</dict>
+		<key>F0651F88-B8E9-49DF-BA33-31A598998167</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F0651F88-B8E9-49DF-BA33-31A598998167.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>628698781.24007702</real>
+			<key>timeStoppedRecording</key>
+			<real>628698781.37472701</real>
+			<key>title</key>
+			<string>Build Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>F0651F88-B8E9-49DF-BA33-31A598998167</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

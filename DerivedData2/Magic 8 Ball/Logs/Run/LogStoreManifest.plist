@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>96A0AE1D-725F-435F-A84C-F82D04675202</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>96A0AE1D-725F-435F-A84C-F82D04675202.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>628699604.25601196</real>
+			<key>timeStoppedRecording</key>
+			<real>628699693.69213402</real>
+			<key>title</key>
+			<string>Run Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>96A0AE1D-725F-435F-A84C-F82D04675202</string>
+		</dict>
+		<key>9EB4FA06-428F-48D6-A51F-5D94B653AB84</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9EB4FA06-428F-48D6-A51F-5D94B653AB84.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Magic 8 Ball project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Magic 8 Ball</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Magic 8 Ball</string>
+			<key>timeStartedRecording</key>
+			<real>628699449.39141595</real>
+			<key>timeStoppedRecording</key>
+			<real>628699496.21549499</real>
+			<key>title</key>
+			<string>Run Magic 8 Ball</string>
+			<key>uniqueIdentifier</key>
+			<string>9EB4FA06-428F-48D6-A51F-5D94B653AB84</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

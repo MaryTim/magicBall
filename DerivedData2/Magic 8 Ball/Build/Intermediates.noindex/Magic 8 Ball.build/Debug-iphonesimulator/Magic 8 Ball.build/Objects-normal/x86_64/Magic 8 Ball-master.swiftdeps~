@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "2973e6e6d920d12883942a9853a50058"
+build_time: [1607006802, 635575000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Magic-8-Ball-iOS13/Magic 8 Ball/ViewController.swift": [1607006800, 862862216]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Magic-8-Ball-iOS13/Magic 8 Ball/AppDelegate.swift": [1600846531, 256210566]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Magic-8-Ball-iOS13/Magic 8 Ball/SceneDelegate.swift": [1600846531, 282286644]
